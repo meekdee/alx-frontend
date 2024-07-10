@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../alx-frontend-master"
+		},
+		{
+			"name": "alx-frontend",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "alx-frontend"
+	}
+}
